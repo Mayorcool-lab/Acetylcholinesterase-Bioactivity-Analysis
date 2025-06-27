@@ -1,0 +1,24 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Hidden system files
+.DS_Store
+Thumbs.db
+
+# Snakemake metadata
+.snakemake/
+.snakejob.*
+
+# Optional outputs
+#*.csv
+#*.pdf
+#*.png
+results/
+
+# Conda env folders (if you ever create one in the project)
+.env/
+.venv/
