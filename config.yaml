@@ -1,0 +1,6 @@
+raw_data: data/acetylcholinesterase_04_bioactivity_data_3class_pIC50.csv
+fingerprints: data/padel_fingerprints.csv
+merged_data: data/merged_descriptors.csv
+model_output: results/random_forest_model.pkl
+plot_output: results/predicted_vs_experimental.png
+
